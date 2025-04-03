@@ -1,3 +1,3 @@
 # AWS-Cloud-Practitioner-Projects
 
-! [AWS] (./photos/awslogo.png)
+![AWS] (./awslogo.png)
