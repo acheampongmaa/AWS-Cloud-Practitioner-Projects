@@ -1,9 +1,9 @@
-# AWS-Cloud-Practitioner-Projects
+# AWS-Cloud-Practitioner-Projects 💻💻
 
 ![mypic](./pics/awslogo.png)
 
 
-## My Certifications for Cloud Computing
+## My Certifications for Cloud Computing ⭐⭐⭐
 
 
 
