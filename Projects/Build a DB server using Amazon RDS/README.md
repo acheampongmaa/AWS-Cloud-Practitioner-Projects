@@ -1,33 +1,46 @@
-# Hosting a Static Website in Amazon S3
+# Using Amazon RDS to Build and Interact with a Database Server (MySQL)
 
-![Amazon S3](./pics/websites3.png)
+![Amazon RDS ](./images/rds.png)
 
 ## Project Description
-This project demonstrates how to set up a simple static website using Amazon S3 (Simple Storage Service). The goal is to showcase the basic use of AWS services, including S3 for web hosting and making a website publicly accessible.
+This project demonstrates how to provision a relational database using Amazon RDS with the MySQL engine and interact with it through an EC2-based Linux server. It covers creating a database, writing SQL commands to manage data, and performing SQL joins, giving a real-world feel of how cloud databases are set up and used.
 
-### Set up an S3 Bucket
+###  What Was Used
+* Amazon RDS (MySQL) – to host the database
 
-![Amazon S3](./pics/createbucket.png) 
+* Amazon EC2 (LinuxServer) – to securely connect to the database
 
-![Amazon S3](./pics/bucketname.png) 
+* MySQL Client – to run SQL commands from the EC2 instance
 
-![Amazon S3](./pics/createdbucket.png) 
+* VPC + Security Groups – to ensure secure network communication
 
-### Upload Your Website Files
-![Amazon S3](./pics/uploadwebdocs.png)
+### Launched a MySQL RDS Instance
 
-### Enable Static Website Hosting
-![Amazon S3](./pics/disablestatic.png)
-![Amazon S3](./pics/enablestatic.png)
+![Amazon RDS ](./images/dbcreatemethod.png)
+![Amazon RDS ](./images/engine.png)
+![Amazon RDS ](./images/credentials.png)
+![Amazon RDS ](./images/connectvpc.png)
+![Amazon RDS ](./images/dbcreatedsuc.png)
 
-### Set Bucket Policy for Public Access
-![Amazon S3](./pics/genpolicy1.png)
-![Amazon S3](./pics/genpolicy2.png)
-![Amazon S3](./pics/succespolicy.png)
+### Connected to LinuxServer and Installed MySQL (EC2)
 
-### Access Your Static Website
-![Amazon S3](./pics/bucketendpoint.png)
-![Amazon S3](./pics/websitesucess.png)
+![Amazon RDS ](./images/putty1.png)
+![Amazon RDS ](./images/putty2.png)
+![Amazon RDS ](./images/sshconnect.png)
+![Amazon RDS ](./images/installmyql.png)
+![Amazon RDS ](./images/dbdone.png)
+
+
+### Created and Populated the Tables
+
+![Amazon RDS](./images/createRESTART.png)
+![Amazon RDS](./images/InsertRESTART.png)
+![Amazon RDS](./images/SELECTRESTART.png)
+![Amazon RDS](./images/CPMAIN.png)
+![Amazon RDS](./images/SELECTCloud_P.png)
+![Amazon RDS](./images/InnerJoin.png)
+
+
 
 
 ## Conclusion
