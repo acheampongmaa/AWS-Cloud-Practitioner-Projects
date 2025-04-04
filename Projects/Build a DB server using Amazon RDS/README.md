@@ -22,7 +22,7 @@ This project demonstrates how to provision a relational database using Amazon RD
 ![Amazon RDS ](./images/connectvpc.png)
 ![Amazon RDS ](./images/dbcreatedsuc.png)
 
-### Connected to LinuxServer and Installed MySQL (EC2)
+### Connected to LinuxServer and Installed MySQL
 
 ![Amazon RDS ](./images/putty1.png)
 ![Amazon RDS ](./images/putty2.png)
