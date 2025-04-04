@@ -3,8 +3,46 @@
 ![mypic](./pics/awslogo.png)
 
 
-## My Certifications for Cloud Computing ⭐⭐⭐
 
+
+## AWS Project Summary Table
+
+<table style="width: 1%;" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td>#</td>
+<td>Project's Name</td>
+<td>Description</td>
+<td>Dev Repository</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td> Host a static website with Amazon S3 </td>
+<td> To host a static website using Amazon S3</td>
+<td> <a href=https://github.com/acheampongmaa/AWS-Cloud-Practitioner-Projects/tree/main/Projects/Host%20a%20static%20website%20on%20Amazon%20S3> Project Repo </a> </td>
+
+</tr>
+
+<tr>
+<td>2</td>
+<td>  Create a simple webpage with AWS CLI and Amazon EC2</td>
+<td> To use AWS CLI and Amazon EC2 to create a webpage </td>
+<td> <a href=https://github.com/acheampongmaa/AWS-Cloud-Practitioner-Projects/tree/main/Projects/Use%20AWS%20CLI%20to%20host%20a%20website%20on%20Amazon%20EC2> Project Repo </a> </td>
+</tr>
+
+<tr>
+<td>3</td>
+<td> Interacting with Amazon RDS  </td>
+<td> To build and interact with a DB server using Amazon RDS </td>
+<td>  <a href=https://github.com/acheampongmaa/A-simple-python-program> Project Repo </a> </td>
+</tr>
+
+</tbody>
+</table>
+
+
+## My Certifications for Cloud Computing ⭐⭐⭐⭐⭐
 
 
 <p align="center">
