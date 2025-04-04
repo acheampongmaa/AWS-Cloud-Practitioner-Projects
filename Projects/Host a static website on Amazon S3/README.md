@@ -3,7 +3,7 @@
 ![Amazon S3](./images/websites3.png)
 
 ## 📌 Project Description
-This project demonstrates how to set up a simple static website using Amazon S3 (Simple Storage Service). The goal is to showcase the basic use of AWS services, including S3 for web hosting and making a website publicly accessible.
+This project demonstrates setting up a simple static website using Amazon S3 (Simple Storage Service). The goal is to showcase the essential use of AWS services, including S3 for web hosting and making a website publicly accessible.
 
 ## 🧰 Tools Used
 Amazon S3
