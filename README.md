@@ -26,7 +26,7 @@
 
 <tr>
 <td>2</td>
-<td>  Create a simple webpage with AWS CLI and Amazon EC2</td>
+<td>  A simple webpage with AWS CLI and Amazon EC2</td>
 <td> To use AWS CLI and Amazon EC2 to create a webpage </td>
 <td> <a href=https://github.com/acheampongmaa/AWS-Cloud-Practitioner-Projects/tree/main/Projects/Use%20AWS%20CLI%20to%20host%20a%20website%20on%20Amazon%20EC2> Project Repo </a> </td>
 </tr>
