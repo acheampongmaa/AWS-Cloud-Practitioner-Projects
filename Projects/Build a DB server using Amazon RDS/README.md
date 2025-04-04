@@ -1,33 +1,33 @@
 # Hosting a Static Website in Amazon S3
 
-![Amazon S3](./images/websites3.png)
+![Amazon S3](./pics/websites3.png)
 
 ## Project Description
 This project demonstrates how to set up a simple static website using Amazon S3 (Simple Storage Service). The goal is to showcase the basic use of AWS services, including S3 for web hosting and making a website publicly accessible.
 
 ### Set up an S3 Bucket
 
-![Amazon S3](./images/createbucket.png) 
+![Amazon S3](./pics/createbucket.png) 
 
-![Amazon S3](./images/bucketname.png) 
+![Amazon S3](./pics/bucketname.png) 
 
-![Amazon S3](./images/createdbucket.png) 
+![Amazon S3](./pics/createdbucket.png) 
 
 ### Upload Your Website Files
-![Amazon S3](./images/uploadwebdocs.png)
+![Amazon S3](./pics/uploadwebdocs.png)
 
 ### Enable Static Website Hosting
-![Amazon S3](./images/disablestatic.png)
-![Amazon S3](./images/enablestatic.png)
+![Amazon S3](./pics/disablestatic.png)
+![Amazon S3](./pics/enablestatic.png)
 
 ### Set Bucket Policy for Public Access
-![Amazon S3](./images/genpolicy1.png)
-![Amazon S3](./images/genpolicy2.png)
-![Amazon S3](./images/succespolicy.png)
+![Amazon S3](./pics/genpolicy1.png)
+![Amazon S3](./pics/genpolicy2.png)
+![Amazon S3](./pics/succespolicy.png)
 
 ### Access Your Static Website
-![Amazon S3](./images/bucketendpoint.png)
-![Amazon S3](./images/websitesucess.png)
+![Amazon S3](./pics/bucketendpoint.png)
+![Amazon S3](./pics/websitesucess.png)
 
 
 ## Conclusion
