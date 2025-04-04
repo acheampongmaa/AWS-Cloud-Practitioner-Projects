@@ -33,7 +33,6 @@ This project demonstrates how to provision a relational database using Amazon RD
 
 ### Created and Populated the Tables
 
-![Amazon RDS](./images/createRESTART.png)
 ![Amazon RDS](./images/InsertRESTART.png)
 ![Amazon RDS](./images/SELECTRESTART.png)
 ![Amazon RDS](./images/CPMAIN.png)
