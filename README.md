@@ -1,6 +1,6 @@
 # AWS-Cloud-Practitioner-Projects 💻💻
 
-![mypic](./pics/awslogo.png)
+![mypic](./images/awslogo.png)
 
 
 
@@ -35,7 +35,7 @@
 <td>3</td>
 <td> Interacting with Amazon RDS  </td>
 <td> To build and interact with a DB server using Amazon RDS </td>
-<td>  <a href=https://github.com/acheampongmaa/A-simple-python-program> Project Repo </a> </td>
+<td>  <a href=https://github.com/acheampongmaa/AWS-Cloud-Practitioner-Projects/tree/main/Projects/Build%20a%20DB%20server%20using%20Amazon%20RDS> Project Repo </a> </td>
 </tr>
 
 </tbody>
