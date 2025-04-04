@@ -39,15 +39,12 @@ This project demonstrates how to provision a relational database using Amazon RD
 ![Amazon RDS](./images/SELECTCloud_P.png)
 ![Amazon RDS](./images/InnerJoin.png)
 
-
-
+## Troubleshooting Connection Issue
+During the process, I encountered a connection issue which was resolved by updating the security group attached to the RDS instance. I added an inbound rule to allow traffic on port 3306 from the EC2 instance's IP address within the same VPC. This enabled secure communication between the EC2 instance and the RDS server.
 
 ## Conclusion
-In this project, I successfully hosted a static website on Amazon S3, providing a simple yet effective way to share content online. 
+This project demonstrated how to set up and interact with an Amazon RDS database using the MySQL engine. I successfully connected to the database from a Linux EC2 instance using the MySQL client, created two tables, inserted sample data, and performed SQL queries including an inner join.
 
-## Key Learnings 💡
-*S3 Website Hosting* : Amazon S3 is a powerful and easy-to-use tool for hosting static websites. With its simple file upload and permission settings, it’s an excellent choice for anyone looking to host personal or professional content.
 
-*File Structure and Permissions*: Understanding how S3 handles public access and file organization is crucial for ensuring the website functions correctly.
+This project highlights foundational skills in working with managed relational databases in AWS.
 
-*Debugging*: Using full S3 URLs for images and testing the website via a browser made it easier to debug path-related issues.
