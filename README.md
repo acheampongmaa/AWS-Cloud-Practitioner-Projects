@@ -42,7 +42,7 @@
 </table>
 
 
-## My Certifications for Cloud Computing ⭐⭐⭐⭐⭐
+## My Cloud Computing Certifications ⭐⭐⭐⭐⭐
 
 
 <p align="center">
